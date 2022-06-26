@@ -19,3 +19,10 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.background-beams {
+  background-image: url('../../public/images/background-beams.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
