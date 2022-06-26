@@ -12,7 +12,7 @@ const Home: NextPage = () => {
           <p className="text-lg md:text-2xl font-medium mb-4">
             Karen&apos;s Portfolio
           </p>
-          <h1 className="text-2xl md:text-5xl font-semibold text-lavender">
+          <h1 className="text-2xl md:text-5xl font-semibold text-lilac">
             🚀 Coming soon...
           </h1>
         </div>

@@ -4,7 +4,8 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        lavender: '#E9E7FD'
+        royal: '#040217',
+        lilac: '#E9E7FD'
       }
     },
     fontFamily: {
