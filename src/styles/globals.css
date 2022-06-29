@@ -9,6 +9,7 @@ body {
   font-family: 'Quicksand', sans-serif;
   background-color: #040217;
   color: #E9E7FD;
+  overflow: hidden;
 }
 
 a {
